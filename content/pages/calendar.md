@@ -4,34 +4,267 @@ title: Calendar
 uid: 54543d0a-3f36-8313-a173-5cb986f336cc
 ---
 
-| Lec # | Topics |
-| --- | --- |
-| {{< td-colspan 2 >}}**Complexity, Stability, and the Struggle for Existence**{{< /td-colspan >}} ||
-| 1 | Predator-prey Models |
-| 2 | Supplemental Information Ecological Experiments |
-| 3 | Supplemental Information Niche Theory |
-| 4 | Stability of Complex Systems |
-| 5 | Supplemental Information Competitive Exclusion |
-| 6 | Chaotic Dynamics |
-| 7 | Network Theory |
-| {{< td-colspan 2 >}}**Spatial Interactions**{{< /td-colspan >}} ||
-| 8 | Population Dispersal |
-| 9 | Patchiness |
-| 10 | Pattern and Scale |
-| 11 | Spatial Models and Interacting Particle Systems |
-| 12 | Lattice-gas Models |
-| 13 | Plankton Patchiness |
-| 14 | Supplemental Information Scaling from Trees to Forests |
-| {{< td-colspan 2 >}}**Co-evolution with the Environment**{{< /td-colspan >}} ||
-| 15 | Evolution of Biodiversity |
-| 16 | Supplemental Information Adaptation and Diversification |
-| 17 | Artificial Life and Biological Complexity |
-| 18 | Cycles |
-| {{< td-colspan 2 >}}**Student Presentations**{{< /td-colspan >}} ||
-| 19 | Reactivity, Stability, and Plankton (2 Presentations) |
-| 20 | Theory of Productivity-Diversity Relationships |
-| 21 | Evolution of Virulence in Host-Pathogen Systems |
-| 22 | Renormalization Approach to Biological Systems |
-| 23 | Directed Motion in Lotka-Volterra Models |
-| 24 | Supplemental Information "Highly Optimized Tolerance" and Ecology |
-| 25 | Theory of Vegetation Patterns
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Complexity, Stability, and the Struggle for Existence**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Predator-prey Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information Ecological Experiments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information Niche Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of Complex Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information Competitive Exclusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Chaotic Dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Network Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Spatial Interactions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Population Dispersal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Patchiness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Pattern and Scale
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial Models and Interacting Particle Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lattice-gas Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Plankton Patchiness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information Scaling from Trees to Forests
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Co-evolution with the Environment**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of Biodiversity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information Adaptation and Diversification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Artificial Life and Biological Complexity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Cycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Student Presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Reactivity, Stability, and Plankton (2 Presentations)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Theory of Productivity-Diversity Relationships
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of Virulence in Host-Pathogen Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Renormalization Approach to Biological Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Directed Motion in Lotka-Volterra Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Supplemental Information "Highly Optimized Tolerance" and Ecology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Theory of Vegetation Patterns
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
